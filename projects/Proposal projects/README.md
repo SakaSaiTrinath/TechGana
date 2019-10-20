@@ -5,7 +5,7 @@ To list a project idea, one should follow the following steps
 
 -   Open a repo in your Github account.
 -   Write a README.MD file in your repo's root with the idea's description. It should be in a particular format. Please check it below.
--   Write a todo.md file in your root repo which contains a list of todos which are get checked as they get complete in the development.
+-   Write a todo.md file in your root repo or create issues or any which contains a list of todos which are get checked as they get complete in the development.
 -   Then in the `Proposal projects`, there is a file called `projects.md`. Mention your idea with the title, a short description, technology stack and link to the repo for more info.
 -   And wait for the contributors to come.
 
