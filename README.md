@@ -1,4 +1,4 @@
-# techgana
+# TechGana
 This is a community of tech people to get together and work
 
 - Do you want to learn a new technology?
