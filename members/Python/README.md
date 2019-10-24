@@ -1,8 +1,8 @@
 ## Python members
 
--   Total members: 3
+-   Total members: 4
 
--   Newbies: 0
+-   Newbies: 1
 -   Juniors: 0
 -   Seniors: 3
 
@@ -11,3 +11,4 @@
 | 1    | Saka Sai Trinath | SakaSaiTrinath  |  India  |   Senior   |
 | 2    | Vinay Kumar Gudi |    VinayGudi    |  India  |   Senior   |
 | 3    | Kishan           |   subashsrao    |  India  |   Senior   |
+| 4    | Vaibhav Parashar | Vaibhav11607139 |  India  |   Newbie   |

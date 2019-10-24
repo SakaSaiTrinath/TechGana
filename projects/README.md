@@ -2,7 +2,7 @@
 
 ### Stats
 
--   Total projects: 0
+-   Total projects: 1
 
 There are three sections in projects:
 

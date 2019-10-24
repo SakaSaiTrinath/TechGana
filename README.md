@@ -44,7 +44,7 @@ A project idea is listed by anyone who wants collaborators in the `Proposed proj
 
 To check more about rules on projects, check the projects folder.
 
-Wanna join this community - Please fill this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfNXCnff162WpqGfu9Y8aiEybtr30vL7IzGlP5FtYPHFLJnXQ/viewform?usp=sf_link)
+Wanna join this community - Please fill this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfNXCnff162WpqGfu9Y8aiEybtr30vL7IzGlP5FtYPHFLJnXQ/viewform?usp=sf_link) and join this [WhatsApp group](https://chat.whatsapp.com/HzipoQV77Ne24FiCNMhuy7)
 
 After joining in, you can pick any project, ask the project listed author to make you as a collaborator or list your project one. Then start working on them.
 
