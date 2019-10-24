@@ -1,9 +1,9 @@
 ## Reactjs members
 
--   Total members: 5
+-   Total members: 7
 
--   Newbies: 0
--   Juniors: 3
+-   Newbies: 1
+-   Juniors: 4
 -   Seniors: 2
 
 | S.No | Name                  | Github username | Country | Experience |
@@ -13,3 +13,5 @@
 | 3    | Billy Mwangi          |   BillyKagwe    |  Kenya  |   Junior   |
 | 4    | vincent muthabuku     |   vmuthabuku    |  Kenya  |   Junior   |
 | 5    | Andrew Hinga          |  andrewhingah   |  Kenya  |   Junior   |
+| 6    | sravan kalla          |   sravankalla   |  India  |   Newbie   |
+| 7    | Vinay Sagar Sharma    |     vinay72     |  India  |   Junior   |

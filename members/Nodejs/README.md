@@ -1,8 +1,8 @@
 ## Nodejs members
 
--   Total members: 6
+-   Total members: 7
 
--   Newbies: 1
+-   Newbies: 2
 -   Juniors: 4
 -   Seniors: 1
 
@@ -14,3 +14,4 @@
 | 4    | Billy Mwangi          |   BillyKagwe    |  Kenya  |   Junior   |
 | 5    | vincent muthabuku     |   vmuthabuku    |  Kenya  |   Junior   |
 | 6    | Andrew Hinga          |  andrewhingah   |  Kenya  |   Junior   |
+| 7    | sravan kalla          |   sravankalla   |  India  |   Newbie   |

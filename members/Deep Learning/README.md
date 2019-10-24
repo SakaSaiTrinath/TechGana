@@ -1,12 +1,13 @@
-## Data Analysis members
+## Deep Learning members
 
--   Total members: 2
+-   Total members: 3
 
--   Newbies: 0
+-   Newbies: 1
 -   Juniors: 2
 -   Seniors: 0
 
 | S.No | Name             | Github username | Country | Experience |
 | :--- | :--------------- | :-------------: | :-----: | :--------: |
-| 1    | Vinay Kumar Gudi |    VinayGudi    |  India  |   Junior   |
+| 1    | Munishlin        |    Munishlin    |  India  |   Junior   |
 | 2    | Deepak Nagar     |    deepak525    |  India  |   Junior   |
+| 3    | Saka Sai Trinath | SakaSaiTrinath  |  India  |   Newbie   |
