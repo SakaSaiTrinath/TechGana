@@ -1,4 +1,4 @@
-## Android members
+## CSS members
 
 -   Total members: 2
 
@@ -8,5 +8,5 @@
 
 | S.No | Name             | Github username | Country | Experience |
 | :--- | :--------------- | :-------------: | :-----: | :--------: |
-| 1    | Vaibhav Parashar | Vaibhav11607139 |  India  |   Junior   |
-| 2    | Abhijeet pradhan | abhijeet0051997 |  India  |   Senior   |
+| 1    | Hunny            |    Hunny@123    |  India  |   Senior   |
+| 2    | Saka Sai Trinath | SakaSaiTrinath  |  India  |   Junior   |
