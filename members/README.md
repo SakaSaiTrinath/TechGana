@@ -2,7 +2,7 @@
 
 ### Stats
 
--   Total unique members: 12
+-   Total unique members: 14
 
 1.  Number of Android members: 1
 2.  Number of Cloud Computing members: 3
