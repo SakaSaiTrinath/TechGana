@@ -49,4 +49,4 @@
 | 14   | Vinay Sagar Sharma    |     vinay72     |  India  |                                             Reactjs, Redux                                             |
 | 15   | Satish                |  m-satishkumar  |   US    |                                                DevOps,                                                 |
 | 16   | Abhijeet pradhan      | abhijeet0051997 |  India  | Android development, Flask , machine learning ,flutter ,firebase,mongoDb, kotlin , java , python, Dart |
-| 17   | Hunny                 |    Hunny@123    |  India  |        Reactjs, Nodejs, jQuery, CSS, PHP, Laravel, Bootstrap, Vuejs and Material with Bootstrap        |
+| 17   | Hunny                 |    hunny123     |  India  |        Reactjs, Nodejs, jQuery, CSS, PHP, Laravel, Bootstrap, Vuejs and Material with Bootstrap        |
