@@ -4,6 +4,7 @@
 
 This is a React website for generating swagger input files by asking questions.
 Technologies Needed: Reactjs, Redux
+
 Repository link: https://github.com/SakaSaiTrinath/swagger-easy
 
 ### 2. Money tracker
@@ -11,3 +12,11 @@ Repository link: https://github.com/SakaSaiTrinath/swagger-easy
 This is a android application to track daily payments.
 Technologies Needed: Kotlin, room
 Repository link: https://github.com/abhijeet0051997/Money-tracker-app.git
+
+Repository Link: https://github.com/SakaSaiTrinath/swagger-easy
+
+### 3. techgana-website
+
+This is the website for TechGana community.
+Technologies Needed: Reactjs, Redux, Nodejs, MongoDB.
+Repository Link: https://github.com/SakaSaiTrinath/techgana-websit

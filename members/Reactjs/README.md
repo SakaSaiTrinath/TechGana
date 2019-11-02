@@ -1,9 +1,9 @@
 ## Reactjs members
 
--   Total members: 7
+-   Total members: 8
 
 -   Newbies: 1
--   Juniors: 4
+-   Juniors: 5
 -   Seniors: 2
 
 | S.No | Name                  | Github username | Country | Experience |
@@ -15,3 +15,4 @@
 | 5    | Andrew Hinga          |  andrewhingah   |  Kenya  |   Junior   |
 | 6    | sravan kalla          |   sravankalla   |  India  |   Newbie   |
 | 7    | Vinay Sagar Sharma    |     vinay72     |  India  |   Junior   |
+| 8    | Hunny                 |    Hunny@123    |  India  |   Junior   |
