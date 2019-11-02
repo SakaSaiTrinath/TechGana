@@ -8,7 +8,6 @@ Repository link: https://github.com/SakaSaiTrinath/swagger-easy
 
 ### 2. Money tracker
 
-
 This is a android application to track daily payments.
 Technologies Needed: Kotlin, room
-Repository link:
+Repository link: https://github.com/abhijeet0051997/Money-tracker-app.git
