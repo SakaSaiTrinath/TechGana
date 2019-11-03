@@ -4,16 +4,13 @@
 
 This is a React website for generating swagger input files by asking questions.
 Technologies Needed: Reactjs, Redux
-
 Repository link: https://github.com/SakaSaiTrinath/swagger-easy
 
 ### 2. Money tracker
 
-This is a android application to track daily payments.
+This is a application developed using Kotlin and Android jetpack components. Main purpose of the application is to track your day to day usage.
 Technologies Needed: Kotlin, room
 Repository link: https://github.com/abhijeet0051997/Money-tracker-app.git
-
-Repository Link: https://github.com/SakaSaiTrinath/swagger-easy
 
 ### 3. techgana-website
 
